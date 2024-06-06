@@ -12,7 +12,7 @@
   - Music: April Rain / Ólafur Arnalds
   - Game:  Gyakuten Saiban / Otome Game
   - Cocktail 、Coffee
-- :girl:My collaborate： [PRR](https://github.com/writingdoge)
+- :girl:My collaborate： 🐶[WRITINGDOG](https://github.com/writingdoge)
 
 
 
