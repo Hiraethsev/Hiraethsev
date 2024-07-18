@@ -5,9 +5,9 @@
 
 
 - 🔭 I’m currently an undergraduate student at the School of Computer Science, CCNU.
-- 💞️ I’m currently learning **Web Software** and **Data Analysis**
+- 💞️ I’m interested in **Web Software** 
 - 📫 How to reach me：bennyss@qq.com
-- 😄 Pronouns: She/Her
+- 😄 Talk me someting about FrontEnd
 - ⚡ Fun fact: 
   - Music: April Rain / Ólafur Arnalds
   - Game:  Gyakuten Saiban / Otome Game
