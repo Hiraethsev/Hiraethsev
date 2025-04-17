@@ -10,8 +10,8 @@
 - 😄 Talk me someting about FrontEnd
 - ⚡ Fun fact: 
   - Music: April Rain / Ólafur Arnalds
-  - Game:  Gyakuten Saiban / Otome Game
-  - Cocktail 、Coffee
+  - Game:  Balatro、Nonogram
+  - Bubbly Water、Matcha
 - :girl:My collaborate： 🐶[WRITINGDOG](https://github.com/writingdoge)
 
 
