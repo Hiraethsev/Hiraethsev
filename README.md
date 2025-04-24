@@ -12,7 +12,7 @@
   - Music: April Rain / Ólafur Arnalds
   - Game:  Balatro、Nonogram
   - Bubbly Water、Matcha
-- :girl:My collaborate： 🐶[WRITINGDOG](https://github.com/writingdoge)
+
 
 
 <h4>🚀 Some Tools I Use</h4>
